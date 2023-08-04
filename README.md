@@ -1,2 +1,2 @@
 # EliteHire-coursify
-[check it out](https://elitehire.netlify.app/)
+Check out [Elite Hire](https://elitehire.netlify.app/)
